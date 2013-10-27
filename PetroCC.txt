@@ -1,0 +1,91 @@
+[mailto:petro@cpetro.us petro@cpetro.us] '''Christopher C. Petro''' 720-285-5121 Operations, Engineering, Security, Systems Archeology and Process Anthropology
+
+'''Employment History'''
+
+'''July 2013 to Present: Robert Half Technologies/Viasat, Contract Senior Linux Administrator'''
+
+Contracted to provide Senior Linux Administration, specific tasks include server provisioning with Cobbler, installation with kickstart and configuration management with Puppet and automation with Python and Bash scripting as well as process documentation.
+
+'''November 2010 to December 2012: Raytheon IIS, Senior Technologist I'''
+
+Provided System Administration (Unix, Redhat Linux variants, etc.) in Alice Springs, AU to the O&M organization (about 7 months) and to an R&D lab (17 months). Responsible for full life-cycle support on HP (primarily DL3x0), SGI (Altrix, UV100 and UV1000) and related network and SAN equipment. Provided support to researchers and analysts.
+
+* Assisted with integrating two SGI Altrix HPCs into the lab (including two NetApp 5500s)
+* Worked with site security on integrating a new firewall and security audits.
+* Assisted with budgeting and resource purchase prioritization
+* Worked with multinational team and coordinated between organizations on three continents.
+
+'''March 2010 to July 2010: Vendio Services, Inc. Contract Linux/Unix Systems Administration '''
+
+Worked with the existing Systems Administration team to provide operational coverage, monitoring and light systems administration and archeology support during a transitional period.
+
+'''November 08 to November 09: Raytheon Intl. Sup Co., Senior Technologist II (Baghdad, Iraq)'''
+
+Worked as part of a team of technicians installing and supporting VMWare ESX, Server and Virtual Center at over 9 sites around Iraq for the US Military (Centcom).
+
+'''September 07 to November 08: Consulting and Contracting'''
+
+Provided support for VMWare's ESX/Virtual Infrastructure to Single Point Of Contact. Provided Linux, Unix, and VMWare/Virtualization support to Saratoga Data Systems.
+
+'''January 06 to August 07: VMWare, Inc.; Technical Support Engineer'''
+
+Provided first and second level product support for VMWare's software products including ESX, Virtual Infrastructure, Virtual Center, VMWare Server and Workstation. Assisted customers in resolving a wide array of problems, from server hardware issues, SAN problems and iSCSI configuration issues to general OS installation issues (both VMWare products and Guest OSs).
+
+'''November 04 to November 05: Contractor'''
+
+May 05 to November. 05, Technical Consultant with Taos, clients include Amgen and SETI. November 04 to March 05, Contract position assisting Electronic Arts in a Solaris to Linux migration.
+
+'''June '00 to September '04: Vendio Services Inc. Senior Systems Administrator, Team lead;'''
+
+Team lead in the operations group responsible for system design, installation, monitoring and maintenance of the Vendio.com and Vendioweb.com web presence in a co-located facility. Responsibilities include project planning, security, general Unix/Linux Administration and managing day to day tasks of a small team.
+
+* Helped reduce operating expenses from over $350,000 a month to approx. $40,000 a month while increasing availability and total traffic.
+* Mentored and provided leadership to junior employees.
+
+'''May 99 to June 00: Atypon Systems Inc.; Information Systems Manager'''
+
+Responsible for administration of a small heterogeneous network of Unix, Windows and Macintosh, as well as the firewall. Maintained in-house Telecom hardware and software. 
+
+'''Technical Synopsis'''
+
+Experience working in a 24×7 and “Mission Critical” operations environments ranging from Silicon Valley startups to DoD data centers and research labs. with the majority of the experience being with Linux based systems (Distributions include Debian, Redhat, Slackware, and SuSE) VMWare ESX. Solaris, MacOS X, FreeBSD and OpenBSD are also in the skill matrix. 
+
+Several years experience in running small to mid-sized (5 to 200 server) Internet sites, as well as some experience large sites (5k servers) and multi-site networks, internal IT and help desk/Technical Support. Experience with project planning and management.
+
+Worked with switches including the Cisco Catalyst and Nexus lines, most of the experience is in vlan/switchport configuration and troubleshooting.
+
+Experience in implementation and maintenance of VMWare's enterprise virtualization products.
+
+Some related experience with various SANs (EMC, HP, NetApp), mostly troubleshooting with VMWare.
+
+Over 20 years experience with a wide variety of server and desktop hardware ranging including SUN and SGI midrange and workstation hardware, HP and Dell servers, embedded level hardware (ARM and Via7 based motherboards) and HPC hardware like the SGI Altix.
+
+Experience in security hardening and risk management, both in civilian and DoD settings.
+
+Experience with many layer four and five network protocols, including SMTP (E-Mail) using Sendmail, Postfix, Exim & Zimbra. HTTP (Web servers) using Apache. Experienced in maintaining DNS servers using BIND and Qip. On the file-server front, experience with NFS, and SAMBA (Unix SMB filesharing software) as well as exposure to Network Appliances' NetApp. Experience with NIS and LDAP. Utilized Linux and OpenBSD to implement Proxies, Caching Web Proxies (with Squid) and firewalls (Linux's IP Tables and Secure Computing's Sidewinder). Implemented a network monitoring system for over 200 servers with Netsaint (Now called Nagios), including writing Plugins. Experience with both Hardware & Software RAID and LVM on Linux. Implemented various archive, backup and DR strategies—including the use of Veritas NetBackup, SystemImager. Created Kickstart install servers and configurations.
+
+Experience administrating both Mysql and PostgreSQL, including some limited database development, as well as exposure to Oracle.
+
+Proficient in BASH and Python scripting. Limited Perl, PHP and C/C++, Considerable experience building software, both from packages and from source code. Some experience with Puppet, Cobbler and similar technologies. 
+
+
+'''Clearances'''
+
+TS/SCI recently expired, cleared to Secret. 
+
+'''Certifications'''
+
+CISSPCompTIA: A+, Net+, Security+
+
+VMWare: VCP 2.5 and 3.0
+
+
+'''Education'''
+
+'''School of the Art Institute of Chicago; '92 to '95'''
+
+Earned a Bachelors of Fine Arts. Studies focused on Graphic Design and Art & Technology.
+
+'''University of Missouri at Columbia; '89 to '92'''
+
+Studies focused on Philosophy and English.
