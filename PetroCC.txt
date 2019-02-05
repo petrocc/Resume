@@ -1,72 +1,59 @@
 ﻿Christopher C. Petro
-720-446-9903
-petro+nj@cpetro.us 
-
-** Employment History
-October 2015 to Present: Atayo Systems/MBI Solutions, Utility Infielder and Team Lead. 
-    Team lead for the Developer Support and Application Support teams. MBI is working with Blue Shield of Californiato build a data warehouse using the Netezza Appliance. The Dev Support supports the developers in that effort by handling most of the non-development tasks. 
-        * Worked with developers to define goals, determine needs and focus and refine processes.
-        * Worked with external groups and service providers to meet those goals and needs as well as acquiring resources. 
-        * Write and maintain monitoring and information gathering scripts in Bash and Python
-        * Work with other organizations at BSC to develop, maintain  processes and resolve problems
-        * Lead and manage  the Application Support team.
-        * Mentor and lead both junior team members, peers, management and senior developers
-        * Assist where needed in the troubleshooting and development of application infrastructure code.
+petro+nj@cpetro.us 720-446-9903
+Arvada, Colorado
+Employment History
+October 2015 to Jan 2019: Atayo Systems/MBI Solutions, Team Lead, Utility Infielder, Developer 
+MBI is working with Blue Shield of California to build a data warehouse using the Netezza appliance. 
+Over the time here I've worked in several different roles as the contracts with Blue Shield have changed. I have been a Team lead for Infrastructure and for Application Support teams, Infrastructure developer but mostly a Utility Infielder.
+Ongoing maintenance on existing code and development of new scripts in Bash, Perl and Python.  
+Assisted in developing unit test scripts (SQL) and in building a scaffolding (in Perl and Bash)  for executing and reporting on those tests. 
+Developed workflow, including custom processing in bash, and SQL for ingesting files into data warehouse
+Assist where needed in the troubleshooting and development of application infrastructure code
+Work with developers to define goals, determine needs and focus and refine processes
+Work with external groups and service providers to meet those goals and needs as well as acquiring resources 
+Write and maintain monitoring and information gathering scripts in Bash and Python
+Work with other organizations at BSC to develop, maintain processes and resolve problems
+Lead,  managed and mentored the Application Support team (April ‘16 to April ‘17)
+Mentor and lead junior team members, peers, management and senior developers
 March 2014 to October 2015: Teksystems/Comcast Inc., Senior Linux Administrator
-    Member of the operations team managing of Comcast's IP based Content Distribution Networks (CDN)
-        * Deploying and managing servers (Centos 6.x on HP & Dell hardware) using custom kickstart & puppet.
-        * Troubleshooting the CDN and Traffic Control (a Comcast written open source control plane for Apache Traffic server http://traffic-control-cdn.net/).
-        * Writing & fixing scripts(Bash, Perl, Python) for automation including using Traffic Control API 
-        * Worked with the engineering team to provide bug fixes, feature enhancements and documentation for Traffic Control in Perl (listed as a Contributor to Traffic Control)
-        * Helped manage the development environment, budgeting & ordering of new equipment
+Member of the operations team managing of Comcast's IP based Content Distribution Networks (CDN)
+Deploying and managing servers (Centos 6.x on HP & Dell hardware) using custom kickstart & puppet.
+Troubleshooting the CDN and Traffic Control (an open source control plane for Apache Traffic server).
+Writing & fixing scripts(Bash, Perl, Python) for automation including using Traffic Control API 
+Worked with the engineering team to provide bug fixes, feature enhancements and documentation for Traffic Control in Perl (listed as a Contributor to Traffic Control)
+Helped manage the development environment, budgeting & ordering of new equipment
 July 2013 to Dec 2013: Robert Half Technologies/Viasat, Contract Senior Linux Administrator
-    Assisted the Back Office Operations team
-        * Server provisioning with Cobbler including template customization with Cheeta
-        * Installation with kickstart & configuration management with Puppet
-        * Python and Bash scripting as well as process documentation
+Assisted the Back Office Operations team.
+Server provisioning with Cobbler including template customization with Cheeta
+Installation with kickstart & configuration management with Puppet
+Python and Bash scripting as well as process documentation
 November 2010 to December 2012: Raytheon IIS, Senior Technologist I
-    Provided System Administration (Unix, Red Hat Linux variants, etc.) in Alice Springs, Australia to the Operations and Maintenance organization (about 7 months) and to an R&D lab (17 months)
-       * Worked with site security on integrating a new firewall & security audits.
-       * Assisted with budgeting & resource/purchase prioritization
-       * Worked with multinational team & coordinated between organizationss on three continents.
-       * Provided advanced support to researchers & analysts
+Provided System Administration (Unix, Red Hat Linux variants, etc.) in Alice Springs, Australia to the Operations and Maintenance organization (about 7 months) and to an R&D lab (17 months)
+Worked with site security on integrating a new firewall & security audits.
+Assisted with budgeting & resource/purchase prioritization
+Worked with multinational team & coordinated between organizations on three continents.
+Provided advanced support to researchers & analysts
+Soup to nuts Unix/Linux administration including racking, cabling, installing, documenting, scripting etc.
 March 2010 to July 2010: Vendio Services, Inc. Contract Linux/Unix Systems Administration
-    Assisted Vendio with clean up and integration work during a transitional period. Company was sold to Alibaba. 
-       * Deep troubleshooting of ongoing problems relating to integration of very dissimilar networks 
-       * Reported on underlying issues directly to CTO. 
+Assisted Vendio with clean up and integration work during a transitional period. Company was sold to Alibaba.   
 November 08 to November 09: Raytheon Intl. Sup Co., Senior Technologist II (Baghdad, Iraq)
-    Install and supporting VMWare ESX & Virtual Center at over 9 sites around Iraq for Centcom
-       * Mentored and provided leadership to junior employees
-September 07 to November 08: Consulting and Contracting
-    Support for VMWare's ESX/Virtual Infrastructure to Single Point Of Contact
-    Linux, Unix, and VMWare/Virtualization support to Saratoga Data Systems
-January 06 to August 07: VMWare, Inc.; Technical Support Engineer
-    Second level product support for VMWare's software products including ESX, Virtual Infrastructure, Virtual Center, VMWare Server & Workstation
-
-** Technical Synopsis
+Install and support VMWare ESX & Virtual Center at over 9 sites around Iraq for Centcom
+Advised military leadership on capabilities and limitations of ESX. 
+Assisted with disaster recovery planning and building a DR site. 
+Technical Synopsis
 Experience working in a 24×7 and “Mission Critical” operations environments ranging from Silicon Valley startups to DoD data centers and research labs, with the majority of the experience being  Linux based systems (Predominately Red Hat, Centos and Debian/Ubuntu) and VMWare ESX. 
 Several years experience in running small to mid-sized (5 to 600s server) Internet sites, as well as some experience large sites (5k servers), multi-site networks, internal IT and help desk/Technical Support. 
-
 Worked with switches including the Cisco and Juniper. Most of the experience is in vlan/switchport configuration and troubleshooting. Also LACP bonding on both server and switch/router side.
-
 Installation and troubleshooting on various SANs and NASs (EMC, HP, NetApp).
-
 Experience working with Big Data/BI Developers and Operations.
-
 Experience in security hardening and risk management, both in civilian and DoD settings.
-
 Experience with many network protocols including SMTP, HTTP, DNS. Experience with NFS, and SAMBA/CIFS. Experience with NIS and LDAP (enough exposure to Active Directory to have acquired immunity). Utilized Linux and OpenBSD to implement Proxies, Caching Web Proxies (with Squid and Apache Traffic Server) and firewalls (Linux's IP Tables and Secure Computing's Sidewinder). Network monitoring with Nagios, including writing plugins. Experience with both Hardware & Software RAID and LVM on Linux. Implemented various archive, backup and DR strategies—including the use of Veritas NetBackup. Created Kickstart install servers and configurations.
-
-Experience administrating both Mysql and PostgreSQL, including some limited database development, as well as exposure to Oracle and Netezza. Some experience with SQL, up to the level of basic joins. 
-
+Experience administrating both Mysql and PostgreSQL, including some limited database development. Some work with IBM’s Netezza data warehouse appliance. Some experience with SQL, up to the level of basic joins. 
 Proficient in BASH and Python scripting, less so in Perl and PHP. Some exposure to C, C++, and Java. Experienced with building software, both from packages and from source code. Experience with Puppet, Cobbler and similar technologies. 
-
-** Certifications
+Certifications
 CISSP
 CompTIA: A+, Net+, Security+
 VMWare: VCP 2.5 and 3.0 (expired and not used in a while). 
 Education
 School of the Art Institute of Chicago
 Earned a Bachelors of Fine Arts. Studies focused on Graphic Design and Art & Technology.
-Clearances
-Was formerly cleared to Top Secret. Expired in 2013. 
